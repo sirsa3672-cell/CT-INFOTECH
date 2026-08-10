@@ -1,0 +1,39 @@
+*{box-sizing: border-box;}
+h1 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+body{background-color: lightgray;}
+h2{color:green;}
+p{color: red;
+background-color: yellow;}
+td{color: purple;}
+.index{color: blue;}
+#index{color: darkgreen}
+.HOME{font-size:large}
+/* *{
+    color: red}; */
+a{color: rgb(14, 14, 233);}
+h2{font-size: 50PX;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;font-style: italic;}
+h1{text-decoration: underline;}
+a{text-decoration: underline;
+text-decoration-color: brown;}
+p{text-decoration: line-through;
+line-height: 1.10;}
+h2{text-transform: uppercase;
+letter-spacing: 10px;}
+.index{width: 400px;
+height: 40px;
+background-color:blue;
+color: WHITE;
+border: 2px solid black;
+border-radius: 10px;
+padding: 10px 20px 50px 20px;
+margin: auto auto;}
+body{background-image: URL("C:\Users\kalara photostate\Desktop\CT-INFOTECH-main\CT-INFOTECH-main\css")
+}
+
+
