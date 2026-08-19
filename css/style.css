@@ -59,7 +59,7 @@ padding: 10px 10px;
 body{color: yellow;}
 .course{list-style-type: none;
 padding: 0;}
-.course li {background-color: blueviolet;
+.course li {background-color: blueviolet ; 
 color: white;
 padding: 10px;
 margin-bottom: 5px;
@@ -111,9 +111,8 @@ nav a:hover {
 .course{display: flex;
 justify-content: center;
 gap: 20px;
-flex-wrap: wrap
-
-;}
+flex-wrap: wrap;
+align-content: center;}
 nav a.active {
     color: red;
     font-weight: bold;
@@ -172,3 +171,9 @@ display: flex;}
 background-color: white;
 }
 .documents{color: yellow;}
+.course {
+    height: 300px;
+align-content: flex-end;}
+li.grow
+{flex-grow: 1;
+ background-color: orange;}
