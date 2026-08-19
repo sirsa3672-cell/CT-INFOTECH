@@ -175,5 +175,9 @@ background-color: white;
     height: 300px;
 align-content: flex-end;}
 li.grow
-{flex-grow: 1;
- background-color: orange;}
+{
+ background-color: orange;
+
+flex-grow:1}
+li.shrink{flex-shrink: 1;
+background-color: brown;}
